@@ -2,7 +2,8 @@ import Header from './component/Header/Header';
 import Hero from './component/Hero/Hero';
 import './App.css';
 import Companies from './component/Companies/Companies';
-import Residencies from './component/Companies/Residencies/Residencies';
+import Residencies from './component/Residencies/Residencies';
+
 
 function App() {
   return (
