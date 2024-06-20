@@ -36,7 +36,6 @@ Whether you're buying, selling, or exploring properties, Homyz offers a seamless
 1. Start the development server: yarn run dev
 2. Open your browser and visit ```http://localhost:3000``` to view the website.
 ## Checking demo:[![Netlify Status](https://api.netlify.com/api/v1/badges/3241ff17-5507-4774-a07d-883a3b3fa708/deploy-status)](https://app.netlify.com/sites/homyz-clone/deploys)
-visit:
-homyz-clone.netlify.app
-
+Visit:
+https://homyz-clone.netlify.app/
 
