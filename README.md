@@ -5,9 +5,9 @@
 Welcome to Homyz, your go-to destination for all things real estate! Homyz is a powerful and intuitive responsive website designed specifically for the real estate market.
 Whether you're buying, selling, or exploring properties, Homyz offers a seamless and user-friendly experience across all devices.
 
-<h1 align="right">
-  <img src="" alt="gif file"/>
-</h1>
+
+  <img align="right" src="https://github.com/Beyound3d/real-estate/blob/master/public/homyz.gif" alt="gif file"/>
+
 
 ## Build using:
 - ReactJS
