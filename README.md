@@ -25,18 +25,19 @@ Whether you're buying, selling, or exploring properties, Homyz offers a seamless
 3. Ease of Use: With clear and organized sections, finding the right property or information is effortless. The website is designed to cater to both novice users and experienced real estate professionals.
 ## Installation:
 1. Clone repository:
-2. install dependencies:
+    ```
+    https://github.com/Beyound3d/real-estate.git
+    ```
+2. install dependencies:Before check node is install ```node -v```
+   ```
+   npm i -g yarn
+   ```   
 ## Usage:
 1. Start the development server: yarn run dev
-2. Open your browser and visit http://localhost:3000 to view the website.
+2. Open your browser and visit ```http://localhost:3000``` to view the website.
 ## License:
 this project is under the MIT License
 
-<div class="video-background">
-  <video autoplay muted loop>
-    <source src="public/ScreenVideo_2024620_222215.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+
 
 
