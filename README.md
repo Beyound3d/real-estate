@@ -9,7 +9,7 @@ Whether you're buying, selling, or exploring properties, Homyz offers a seamless
   <img align="right" src="https://github.com/Beyound3d/real-estate/blob/master/public/homyz.gif" alt="gif file"/>
 
 
-## Build using:
+**Build using:**
 - ReactJS
 - Modern CSS
 - React hooks
