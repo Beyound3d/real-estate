@@ -5,7 +5,10 @@
 
 .r-head{
 margin-bottom:2rem;
-margin-left:15%;
+margin-left:40%;
+}
+.gap{
+    margin-left:10%;
 }
 .r-card{
     gap:0.6rem;
@@ -43,12 +46,10 @@ margin-left:15%;
 .swiper-horizontal{
     overflow:visible;
 }
-.holo{
+/* .holo{
     margin-left:12%;
     margin-right:15%;
-    
-
-}
+    } */
 .r-buttons{
     position:absolute;
     gap:1rem;

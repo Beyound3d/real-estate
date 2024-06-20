@@ -4,6 +4,9 @@ import './App.css';
 import Companies from './component/Companies/Companies';
 import Residencies from './component/Residencies/Residencies';
 import Estatevalue from './component/Estatevalue/Estatevalue';
+import Contact from './component/Contact/Contact';
+import GetStarted from './component/GetStarted/GetStarted';
+import Footer from './component/Footer/Footer';
 
 
 
@@ -18,6 +21,9 @@ function App() {
       <Companies/>
       <Residencies/>
       <Estatevalue/>
+      <Contact/>
+      <GetStarted/>
+      <Footer/>
     </div>
   );
 }
