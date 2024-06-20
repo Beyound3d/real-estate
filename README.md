@@ -26,3 +26,29 @@ Whether you're buying, selling, or exploring properties, Homyz offers a seamless
 2. Open your browser and visit http://localhost:3000 to view the website.
 ## License:
 this project is under the MIT License
+
+<div class="video-background">
+  <video autoplay muted loop>
+    <source src="background.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+<style>
+  .video-background {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+  }
+</style>
+
